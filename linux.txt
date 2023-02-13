@@ -1,0 +1,22 @@
+1.sudo 
+This command operates only that command by root/ superuser privileges.
+sudo useradd - To add a new user
+sudo passwd - Creating a password for the new user
+2.Tail
+It is corresponding to head command. The tail command prints the last N number of information of the given info. 
+Of course, it prints the last 10 lines of the predefined documents. In the event that you provide more than one file name,
+ at that point information from each document goes before by its record name.
+3.Chmod
+The command is utilized to alter the access authorizations of files and directories.
+Syntax:
+chmod {filename}
+4 – read permission
+2 – write permission
+1 – execute permission
+0 – no permission
+4.dd
+dd is a command-line utility for Unix and Unix-like operating systems whose main role is to change over and duplicate records.
+5.tr
+The tr command in UNIX is a command-line utility for translating  or erasing characters. 
+It bolsters a scope of changes including capitalized to lowercase, pressing rehashing characters, erasing explicit characters and fundamental find and replace.
+6.
